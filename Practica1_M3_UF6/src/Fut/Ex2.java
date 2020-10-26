@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class Ex2 {
+public class Ex2 {//mysql
 
 
 	public static void main(String[] args) {
